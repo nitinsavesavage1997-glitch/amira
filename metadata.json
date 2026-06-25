@@ -1,0 +1,6 @@
+{
+  "name": "Amira Sunscreen",
+  "description": "An interactive premium sunscreen brand website for Amira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
